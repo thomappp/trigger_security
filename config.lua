@@ -1,7 +1,7 @@
 Config = {}
 
 Config.Admins = {
-    ["license:234b8b76b1056d02d25ef2a6ac13b4e6af63e914"] = true
+    ["license:abc123"] = true
 }
 
 Config.Messages = {
